@@ -12,7 +12,7 @@ This application helps the user find vaccination slots in their location by simp
 
 ## Android Screenshots
 
-  HomePage              |   Add Pincode and Date 
+  Home Page              |   Add Pincode and Date 
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/71205815/130992605-2bfc2daa-922b-4624-b00e-4e1edae8a28f.jpeg)|![](https://user-images.githubusercontent.com/71205815/130992602-fbbf07ef-8d03-4bb5-8e98-5145cdb34ca6.jpeg)
 
